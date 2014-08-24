@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InstajobSV_App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre_proyecto">InstajobSV</string>
+    <string name="usuario_menu">Funcion a ejecutar usuario</string>
+    <string name="insertar_Registro">Insertar Registro</string>
+    <string name="actualizar_Registro">Actualizar Registro</string>
+    <string name="Eliminar_Registro">Eliminar Registro</string>
+    <string name="Consultar_Regiwstro">Consultar Registro</string>
+    <string name="Id_Usuario">Id Usuario</string>
+    <string name="Email_user">Email Usuario</string>
+    <string name="password_user">Password Usuario</string>
+    <string name="title_activity_usuario">UsuarioActivity</string>
+
+</resources>
