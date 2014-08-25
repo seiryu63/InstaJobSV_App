@@ -14,5 +14,9 @@
     <string name="Email_user">Email Usuario</string>
     <string name="password_user">Password Usuario</string>
     <string name="title_activity_usuario">UsuarioActivity</string>
+    <string name="tab1"></string>
+    <string name="tab2"></string>
+    <string name="tab3"></string>
+    <string name="tab4"></string>
 
 </resources>

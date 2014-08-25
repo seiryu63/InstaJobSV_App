@@ -22,10 +22,34 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int ic_action_accept=0x7f020000;
+        public static final int ic_action_cancel=0x7f020001;
+        public static final int ic_action_important=0x7f020002;
+        public static final int ic_action_labels=0x7f020003;
+        public static final int ic_action_logo=0x7f020004;
+        public static final int ic_action_new_account=0x7f020005;
+        public static final int ic_action_overflow=0x7f020006;
+        public static final int ic_action_person=0x7f020007;
+        public static final int ic_action_search=0x7f020008;
+        public static final int ic_action_settings=0x7f020009;
+        public static final int ic_action_share=0x7f02000a;
+        public static final int ic_launcher=0x7f02000b;
     }
     public static final class id {
-        public static final int action_settings=0x7f080000;
+        public static final int LinearLayout1=0x7f080000;
+        public static final int LinearLayout2=0x7f080001;
+        public static final int action_settings=0x7f08000d;
+        public static final int imageButton1=0x7f080002;
+        public static final int imageButton2=0x7f080004;
+        public static final int imageButton3=0x7f080003;
+        public static final int tab1=0x7f080005;
+        public static final int tab2=0x7f080007;
+        public static final int tab3=0x7f080009;
+        public static final int tab4=0x7f08000b;
+        public static final int textView1=0x7f080006;
+        public static final int textView2=0x7f080008;
+        public static final int textView3=0x7f08000a;
+        public static final int textView4=0x7f08000c;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -47,6 +71,10 @@ public final class R {
         public static final int insertar_Registro=0x7f050005;
         public static final int nombre_proyecto=0x7f050003;
         public static final int password_user=0x7f05000b;
+        public static final int tab1=0x7f05000d;
+        public static final int tab2=0x7f05000e;
+        public static final int tab3=0x7f05000f;
+        public static final int tab4=0x7f050010;
         public static final int title_activity_usuario=0x7f05000c;
         public static final int usuario_menu=0x7f050004;
     }
